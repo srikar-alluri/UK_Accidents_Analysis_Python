@@ -1,9 +1,6 @@
 # UK_Accidents_Analysis_Python
 EDA and Insights using python
 
-# UK_accidents_analysis
-Data Analytics Project using Python (EDA and Insights)
-
 ## Goal
 The goal of this project is to formulate a business challenge and use my python skills to generate insights that can produce actionable recommendations.
 
